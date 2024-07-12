@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @tukaya
-- 👀 I’m interested in developing highly performant applications on the cloud as well as developing code analysis tools to improve our day to day life as developers.
-- 🌱 I’m currently learning Machine Learning with Python 
-- 💞️ I’m looking to collaborate on code analysis tools such as Roslyn
-- 📫 Please reach me via LinkedIn, https://www.linkedin.com/in/tubakaya/
+### 👋 Hi there, 
 
-<!---
-tukaya/tukaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Tuba, and I am a senior software engineer in building large distributed systems on the cloud
+
+- ✨ My professional experience so far has been mainly with .NET, C#, Azure
+- 👀 Some cool things I built in my spare time are code generation tools for C#
+  - One of them is [autosetup](https://github.com/tukaya/autosetup), generating mocks for class under test automatically,
+  - the other is [slice](), a call graph detection tool that integrates with several build servers
+  - and [an ORM anti-pattern detection tool](), which was my masters thesis back when I graduated from MSC in Software engineering at the University of Amsterdam
+- 🌱 I’m currently diving deeper into Golang, Python and Rust
+- 💞️ I’m looking to contrinute to open source projects
+
+  📫 Feel free to contact me on tuba@kayatuba.com
